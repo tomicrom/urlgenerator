@@ -1,0 +1,35 @@
+body{
+	background: #eee ;
+	margin-top: 50px;
+}
+/* ICON: http://www.gentleface.com */
+#contactURL{
+	background: #8CD1EF url('../img/icon_arrow.png') no-repeat 10px center;
+	color: #fff;
+	margin-top: 1em;
+	padding: .5em 1em .5em 2em;
+	display: none;
+}
+#contactURL:hover{
+	background-color: #C33213;
+	color: #fff;
+	text-shadow: 1px 1px 0px #8d4130;
+}
+footer{
+	padding-top: 4em;
+}
+a{
+	text-shadow: 1px 1px 0px #ffffff;
+}
+a:hover{
+		text-decoration: underline;
+}
+#contactURL a{
+	color: #fff;
+	font-weight: bold;
+	text-shadow: 1px 1px 0px #6AAAE5;
+}
+#contactURL a:hover{
+	text-shadow: 1px 1px 0px #8d4130;
+	text-decoration: none;
+}
